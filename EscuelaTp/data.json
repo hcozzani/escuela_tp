@@ -1,0 +1,262 @@
+
+{
+    "alumnos": [
+        {
+            "nombre": "Ramiro",
+            "apellido": "Barcala",
+            "materias": ["Analisis1", "Algebra"]
+          },
+          {
+            "nombre": "Agustin",
+            "apellido": "Bondonno",
+            "materias": ["Fisica 1", "Algebra"]
+          },
+          {
+            "nombre": "Franco",
+            "apellido": "Bonini",
+            "materias": ["Programacion1"]
+          },
+          {
+            "nombre": "Gonzalo",
+            "apellido": "Carabajal",
+            "materias": ["Analisis1"]
+          },
+          {
+            "nombre": "Tomas",
+            "apellido": "Condo",
+            "materias": ["Analisis1", "Fisica1", "Algebra"]
+          },
+          {
+            "nombre": "Manuel",
+            "apellido": "Cutignola",
+            "materias": ["Programacion1"]
+          },
+          {
+            "nombre": "Leandro",
+            "apellido": "Czabaj",
+            "materias": ["Fisica 1", "Algebra"]
+          },
+          {
+            "nombre": "Josue",
+            "apellido": "DeSimone",
+            "materias": ["Algebra"]
+          },
+          {
+            "nombre": "Juan Diaz",
+            "apellido": "Ainscough",
+            "materias": ["Analisis1"]
+          },
+          {
+            "nombre": "Matias",
+            "apellido": "Fernandez",
+            "materias": ["Algebra"]
+          },
+          {
+            "nombre": "Franco",
+            "apellido": "Ferraro",
+            "materias": ["Fisica 1", "Algebra"]
+          },
+          {
+            "nombre": "Ivan",
+            "apellido": "Garros",
+            "materias": ["Programacion1"]
+          },
+          {
+            "nombre": "Ramiro",
+            "apellido": "Martinez",
+            "materias": ["Programacion1"]
+          },
+          {
+            "nombre": "Facundo",
+            "apellido": "Molino",
+            "materias": ["Analisis1", "Algebra"]
+          },
+          {
+            "nombre": "Santiago",
+            "apellido": "Ravitti",
+            "materias": ["Programacion1"]
+          },
+          {
+            "nombre": "Micaela",
+            "apellido": "Sanabria",
+            "materias": ["Programacion1"]
+          },
+          {
+            "nombre": "Francisco",
+            "apellido": "Schroer",
+            "materias": ["Programacion1"]
+          },
+          {
+            "nombre": "Daniel",
+            "apellido": "Soria Barrios",
+            "materias": ["Fisica 1", "Algebra"]
+          },
+          {
+            "nombre": "Matias",
+            "apellido": "Symeonides",
+            "materias": ["Programacion1"]
+          },
+          {
+            "nombre": "MAXIMO DAMIAN",
+            "apellido": "AGÜERODZIOVALAS",
+            "materias": ["Analisis1", "Algebra"]
+          },
+          {
+            "nombre": "FEDERICO",
+            "apellido": "BAEZ",
+            "materias": ["Programacion1"]
+          },
+          {
+            "nombre": "IVANMARTIN",
+            "apellido": "BARJA",
+            "materias": ["Fisica 1", "Algebra"]
+          },
+          {
+            "nombre": "DANA BELEN",
+            "apellido": "BEJARANO",
+            "materias": ["Analisis1", "Algebra"]
+          },
+          {
+            "nombre": "AGUSTIN NAHUEL",
+            "apellido": "BIRARELLI",
+            "materias": ["Programacion1"]
+          },
+          {
+            "nombre": "MARCO ALESSANDRO",
+            "apellido": "BRISCHETTO",
+            "materias": ["Algebra"]
+          },
+          {
+            "nombre": "JUAN FRANCISCO",
+            "apellido": "CATALUSCI ZAMOLO",
+            "materias": ["Programacion1"]
+          },
+          {
+            "nombre": "IVAN EZEQUIEL",
+            "apellido": "ESTRUCH",
+            "materias": ["Analisis1", "Fisica 1", "Algebra"]
+          },
+          {
+            "nombre": "IVAN EMILIANO",
+            "apellido": "FIASCHE",
+            "materias": ["Programacion1"]
+          },
+          {
+            "nombre": "SEBASTIAN NEYEN",
+            "apellido": "FREZZINI",
+            "materias": ["Algebra"]
+          },
+          {
+            "nombre": "MATIAS RUBEN",
+            "apellido": "LOGIOIA",
+            "materias": ["Programacion1"]
+          },
+          {
+            "nombre": "MATIAS EZEQUIEL",
+            "apellido": "MACIJAUKAS",
+            "materias": ["Fisica 1", "Algebra"]
+          },
+          {
+            "nombre": "FRANCO",
+            "apellido": "MATALONI",
+            "materias": ["Programacion1"]
+          },
+          {
+            "nombre": "MARTIN",
+            "apellido": "MICALONE",
+            "materias": ["Analisis1", "Algebra"]
+          },
+          {
+            "nombre": "FRANCO AGUSTIN",
+            "apellido": "NAVARRO CABRAL",
+            "materias": ["Algebra"]
+          },
+          {
+            "nombre": "JULIAN LEANDRO",
+            "apellido": "NUÑEZ",
+            "materias": ["Programacion1"]
+          },
+          {
+            "nombre": "CHRISTIAN ELIAS",
+            "apellido": "OJEDA",
+            "materias": ["Programacion1"]
+          },
+          {
+            "nombre": "BAUTISTA",
+            "apellido": "OUZKOUCHIAN",
+            "materias": ["Programacion1"]
+          },
+          {
+            "nombre": "CRISTIAN NATANAEL",
+            "apellido": "PAUCAR RIVERA",
+            "materias": ["Analisis1", "Programacion1"]
+          },
+          {
+            "nombre": "OCTAVIO",
+            "apellido": "PLATON",
+            "materias": ["Programacion1"]
+          },
+          {
+            "nombre": "MARTIN",
+            "apellido": "SANTILLAN",
+            "materias": ["Analisis1", "Algebra"]
+          },
+          {
+            "nombre": "SANTIAGO",
+            "apellido": "SEMPE",
+            "materias": ["Analisis1", "Fisica 1", "Algebra"]
+          },
+          {
+            "nombre": "JUAN PABLO",
+            "apellido": "TARELA",
+            "materias": ["Fisica 1"]
+          },
+          {
+            "nombre": "TOMAS AGUSTIN",
+            "apellido": "ZANGONI",
+            "materias": ["Analisis1", "Fisica 1", "Algebra"]
+          }
+        ],
+    "profesores": [
+        {
+            "apellido": "Sadowski"
+        },
+        {
+            "apellido": "Kepler"
+        },
+        {
+            "apellido": "Babage"
+        },
+        {
+            "apellido": "Dijtrack"
+        }
+        ],
+    "materias": [
+        {
+            "nombre": "Analisis1",
+            "cantidadHoras": 8,
+            "duracion": "Anual",
+            "aula": "5"
+        },
+        {
+            "nombre": "Algebra",
+            "cantidadHoras": 5,
+            "duracion": "Anual",
+            "aula": "7"
+        },
+        {
+            "nombre": "Fisica 1",
+            "cantidadHoras": 5,
+            "duracion": "Cuatrimestral",
+            "aula": "6"
+        },
+        {
+            "nombre": "Programacion1",
+            "cantidadHoras": 6,
+            "duracion": "Cuatrimestral",
+            "aula": "5"
+        }
+        ]
+}
+        
+        
